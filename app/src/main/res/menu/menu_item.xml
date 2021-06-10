@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_airing_today"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="@string/airing_today"/>
+
+    <item
+        android:id="@+id/item_top_rated"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:title="@string/top_rated"/>
+
+    <item
+        android:id="@+id/item_popular"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="@string/popular"/>
+
+    <item
+        android:id="@+id/item_favourite"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/favourite"/>
+
+
+
+</menu>

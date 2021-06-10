@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">movieapp_final</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="language">Language</string>
+    <string name="first_air">First Air Date :</string>
+    <string name="last_air">Last Air Date :</string>
+    <string name="season">Season :</string>
+    <string name="episode">Episodes :</string>
+    <string name="genre">GENRE</string>
+    <string name="cast">Casts</string>
+    <string name="overview">Overview</string>
+    <string name="trailer">Watch Trailer</string>
+    <string name="cast_name">Cast Name</string>
+    <string name="character_name">Character Name</string>
+</resources>
